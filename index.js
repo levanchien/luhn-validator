@@ -1,4 +1,4 @@
-module.exports.checkCreditCard = function(str) {
+module.exports.checkCreditCard = function (str) {
     if (!str) {
         str = '';
     }
