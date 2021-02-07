@@ -1,0 +1,19 @@
+{
+  "name": "luhn-validator",
+  "version": "1.0.0",
+  "description": "Luhn algorithm javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levanchien/luhn-validator.git"
+  },
+  "author": "Le Van Chien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/levanchien/luhn-validator/issues"
+  },
+  "homepage": "https://github.com/levanchien/luhn-validator#readme"
+}
