@@ -1,5 +1,5 @@
 {
-  "name": "luhn-validator",
+  "name": "luhn-validator-x",
   "version": "1.0.0",
   "description": "Luhn algorithm javascript",
   "main": "src/index.js",
