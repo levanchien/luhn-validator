@@ -1,4 +1,4 @@
-module.exports.checkCreditCard = function (str) {
+module.exports.luhnValidate = function (str) {
     if (!str) {
         str = '';
     }
